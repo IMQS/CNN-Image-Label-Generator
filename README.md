@@ -34,3 +34,4 @@ Saving Label:
 2. Manually create a directory in the same folder as the images called "Labels".
 3. Click "Write Labels", and it will write the label files in the the "Labels" directory.
 4. To get the "names" file required for training, click the "Get Classes" button, and copy the entries to your blank "names" file.
+5. To create the "train" and "test" files required for training, click the "Get file paths" button and copy these to your train and test files.
