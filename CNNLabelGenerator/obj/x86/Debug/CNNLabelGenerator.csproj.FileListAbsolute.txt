@@ -1,0 +1,4 @@
+C:\Users\RoderichZ\Documents\Visual Studio 2015\Projects\WeightEditor\WeightEditor\WeightEditor\obj\x86\Debug\WeightEditor.exe
+C:\Users\RoderichZ\Documents\Visual Studio 2015\Projects\WeightEditor\WeightEditor\WeightEditor\obj\x86\Debug\WeightEditor.pdb
+C:\Users\RoderichZ\Documents\Visual Studio 2015\Projects\WeightEditor\WeightEditor\CNNLabelGenerator\obj\x86\Debug\WeightEditor.exe
+C:\Users\RoderichZ\Documents\Visual Studio 2015\Projects\WeightEditor\WeightEditor\CNNLabelGenerator\obj\x86\Debug\WeightEditor.pdb

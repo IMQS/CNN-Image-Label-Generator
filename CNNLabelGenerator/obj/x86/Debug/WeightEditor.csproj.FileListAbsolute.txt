@@ -1,0 +1,38 @@
+C:\Users\RodMaster\AppData\Local\Temporary Projects\WeightEditor\bin\Debug\WeightEditor.exe
+C:\Users\RodMaster\AppData\Local\Temporary Projects\WeightEditor\bin\Debug\WeightEditor.pdb
+C:\Users\RodMaster\AppData\Local\Temporary Projects\WeightEditor\obj\x86\Debug\MainWindow.baml
+C:\Users\RodMaster\AppData\Local\Temporary Projects\WeightEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\RodMaster\AppData\Local\Temporary Projects\WeightEditor\obj\x86\Debug\App.g.cs
+C:\Users\RodMaster\AppData\Local\Temporary Projects\WeightEditor\obj\x86\Debug\WeightEditor_MarkupCompile.cache
+C:\Users\RodMaster\AppData\Local\Temporary Projects\WeightEditor\obj\x86\Debug\WeightEditor.g.resources
+C:\Users\RodMaster\AppData\Local\Temporary Projects\WeightEditor\obj\x86\Debug\WeightEditor.Properties.Resources.resources
+C:\Users\RodMaster\AppData\Local\Temporary Projects\WeightEditor\obj\x86\Debug\WeightEditor.csproj.GenerateResource.Cache
+C:\Users\RodMaster\AppData\Local\Temporary Projects\WeightEditor\obj\x86\Debug\WeightEditor.exe
+C:\Users\RodMaster\AppData\Local\Temporary Projects\WeightEditor\obj\x86\Debug\WeightEditor.pdb
+C:\Users\RodMaster\documents\visual studio 2010\Projects\WeightEditor\WeightEditor\obj\x86\Debug\WeightEditor.exe
+C:\Users\RodMaster\documents\visual studio 2010\Projects\WeightEditor\WeightEditor\obj\x86\Debug\WeightEditor.pdb
+C:\Users\RodMaster\documents\visual studio 2010\Projects\WeightEditor\WeightEditor\bin\Debug\WeightEditor.exe
+C:\Users\RodMaster\documents\visual studio 2010\Projects\WeightEditor\WeightEditor\bin\Debug\WeightEditor.pdb
+C:\Users\RodMaster\documents\visual studio 2010\Projects\WeightEditor\WeightEditor\obj\x86\Debug\MainWindow.baml
+C:\Users\RodMaster\documents\visual studio 2010\Projects\WeightEditor\WeightEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\RodMaster\documents\visual studio 2010\Projects\WeightEditor\WeightEditor\obj\x86\Debug\App.g.cs
+C:\Users\RodMaster\documents\visual studio 2010\Projects\WeightEditor\WeightEditor\obj\x86\Debug\WeightEditor_MarkupCompile.cache
+C:\Users\RodMaster\documents\visual studio 2010\Projects\WeightEditor\WeightEditor\obj\x86\Debug\WeightEditor.g.resources
+C:\Users\RodMaster\documents\visual studio 2010\Projects\WeightEditor\WeightEditor\obj\x86\Debug\WeightEditor.Properties.Resources.resources
+C:\Users\RodMaster\documents\visual studio 2010\Projects\WeightEditor\WeightEditor\obj\x86\Debug\WeightEditor.csproj.GenerateResource.Cache
+C:\Users\RodMaster\documents\visual studio 2010\Projects\WeightEditor\WeightEditor\obj\x86\Debug\Window1.baml
+C:\Users\RodMaster\documents\visual studio 2010\Projects\WeightEditor\WeightEditor\obj\x86\Debug\Window1.g.cs
+C:\Users\RoderichZ\Documents\Visual Studio 2015\Projects\WeightEditor\WeightEditor\WeightEditor\obj\x86\Debug\WeightEditor.exe
+C:\Users\RoderichZ\Documents\Visual Studio 2015\Projects\WeightEditor\WeightEditor\WeightEditor\obj\x86\Debug\WeightEditor.pdb
+C:\Users\RoderichZ\Documents\Visual Studio 2015\Projects\WeightEditor\WeightEditor\WeightEditor\bin\Debug\WeightEditor.exe
+C:\Users\RoderichZ\Documents\Visual Studio 2015\Projects\WeightEditor\WeightEditor\WeightEditor\bin\Debug\WeightEditor.pdb
+C:\Users\RoderichZ\Documents\Visual Studio 2015\Projects\WeightEditor\WeightEditor\WeightEditor\obj\x86\Debug\WeightEditor.csprojResolveAssemblyReference.cache
+C:\Users\RoderichZ\Documents\Visual Studio 2015\Projects\WeightEditor\WeightEditor\WeightEditor\obj\x86\Debug\MainWindow.baml
+C:\Users\RoderichZ\Documents\Visual Studio 2015\Projects\WeightEditor\WeightEditor\WeightEditor\obj\x86\Debug\Window1.baml
+C:\Users\RoderichZ\Documents\Visual Studio 2015\Projects\WeightEditor\WeightEditor\WeightEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\RoderichZ\Documents\Visual Studio 2015\Projects\WeightEditor\WeightEditor\WeightEditor\obj\x86\Debug\Window1.g.cs
+C:\Users\RoderichZ\Documents\Visual Studio 2015\Projects\WeightEditor\WeightEditor\WeightEditor\obj\x86\Debug\App.g.cs
+C:\Users\RoderichZ\Documents\Visual Studio 2015\Projects\WeightEditor\WeightEditor\WeightEditor\obj\x86\Debug\WeightEditor_MarkupCompile.cache
+C:\Users\RoderichZ\Documents\Visual Studio 2015\Projects\WeightEditor\WeightEditor\WeightEditor\obj\x86\Debug\WeightEditor.g.resources
+C:\Users\RoderichZ\Documents\Visual Studio 2015\Projects\WeightEditor\WeightEditor\WeightEditor\obj\x86\Debug\WeightEditor.Properties.Resources.resources
+C:\Users\RoderichZ\Documents\Visual Studio 2015\Projects\WeightEditor\WeightEditor\WeightEditor\obj\x86\Debug\WeightEditor.csproj.GenerateResource.Cache
