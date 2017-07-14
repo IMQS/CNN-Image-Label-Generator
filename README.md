@@ -3,6 +3,10 @@ Generates label files for images, which are used for training. This one is speci
 
 This is based on classifing images within bounding boxes within an image. In the user interface the user draws out the bounding box of the object or class for which they wish to classify. Multiple classes and/or bounding boxes can be defined within a single image.
 
+# Install/Run
+Can run it directly using this file: https://github.com/IMQS/CNN-Image-Label-Generator/blob/master/CNNLabelGenerator/bin/Debug/WeightEditor.exe
+Or open and compile in Visual Studio.
+
 # How to use:
 
 ## Custom class(s) for each image:
