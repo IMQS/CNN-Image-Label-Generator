@@ -5,7 +5,7 @@ This is based on classifing images within bounding boxes whinin an image. In the
 
 # How to use:
 
-Custom classes for each image:
+Custom class(es) for each image:
 
 1. Open image(s).
 2. Type name of the class you wish to define in textbox and click "Add".
